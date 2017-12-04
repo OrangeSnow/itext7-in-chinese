@@ -1,3 +1,4 @@
+#帮学长一起翻译的英文教程iText7，貌似引起了其创始人的注意，有点牛逼。
 # itext7-in-chinese
 iText7 documents in Chinese Translation.
 
